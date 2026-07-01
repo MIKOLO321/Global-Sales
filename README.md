@@ -1,4 +1,4 @@
-# Global Sales Executive Intelligence Dashboard
+# Global Sales Executive Intelligence 
 
 ## Overview
 
